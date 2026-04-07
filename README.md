@@ -1,5 +1,5 @@
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upotsu&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=upotsu&layout=compact)
 
 <!--
 **upotsu/upotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
